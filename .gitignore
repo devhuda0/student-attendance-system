@@ -1,0 +1,16 @@
+.env
+*.pem
+*.key
+secrets.json
+*.db
+*.sqlite
+*.db-journal
+bin/
+obj/
+.vs/
+*.user
+packages/
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
