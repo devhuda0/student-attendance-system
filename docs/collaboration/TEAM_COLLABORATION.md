@@ -29,3 +29,4 @@ Project: Student Attendance System · Platform: GitHub · Supervisor: Dr. Sirwan
 - Contact the other author, agree on the intended result against the requirements, then edit the file and remove the conflict markers.
 - Test, stage and complete the merge. If no agreement is possible, the maintainer decides and the supervisor is consulted on requirement questions.
 - Force-pushing shared branches is forbidden; an exposed secret is replaced immediately.
+ Reviewed by: Chro Khurshid Saleh
