@@ -30,3 +30,4 @@ Project: Student Attendance System · Platform: GitHub · Supervisor: Dr. Sirwan
 - Test, stage and complete the merge. If no agreement is possible, the maintainer decides and the supervisor is consulted on requirement questions.
 - Force-pushing shared branches is forbidden; an exposed secret is replaced immediately.
  Reviewed by: Chro Khurshid Saleh
+Review method: pull request approved by a teammate
