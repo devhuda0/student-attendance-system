@@ -1,16 +1,4 @@
-.env
-*.pem
-*.key
-secrets.json
-*.db
-*.sqlite
-*.db-journal
+.vs/
 bin/
 obj/
-.vs/
 *.user
-packages/
-~$*
-*.tmp
-.DS_Store
-Thumbs.db
