@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CourseLectureForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CourseLectureForm.Designer.cs">
+      <DependentUpon>CourseLectureForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -61,6 +67,9 @@
     <Compile Include="Models.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CourseLectureForm.resx">
+      <DependentUpon>CourseLectureForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="loginform.resx">
       <DependentUpon>loginform.cs</DependentUpon>
     </EmbeddedResource>
